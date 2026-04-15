@@ -4,8 +4,6 @@ An AI-powered chatbot that reads and understands your PDF documents,
 allowing you to ask questions and get intelligent answers about the
 content using IBM WatsonX Llama 3 and LangChain.
 
-## 🌐 Live Demo
-👉 [Try it on Hugging Face Spaces](https://huggingface.co/spaces/Mae-Mae/pdf-chatbot)
 
 ## 📖 About
 This project demonstrates how to build a full-stack chatbot that can
