@@ -4,7 +4,6 @@ An AI-powered chatbot that reads and understands your PDF documents,
 allowing you to ask questions and get intelligent answers about the
 content using IBM WatsonX Llama 3 and LangChain.
 
-
 ## 📖 About
 This project demonstrates how to build a full-stack chatbot that can
 comprehend and answer questions related to the content of any PDF
